@@ -1,0 +1,11 @@
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\bin\Debug\net8.0\PruebaTecnicaPeriferia.Entities.deps.json
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\bin\Debug\net8.0\PruebaTecnicaPeriferia.Entities.dll
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\bin\Debug\net8.0\PruebaTecnicaPeriferia.Entities.pdb
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\PruebaTecnicaPeriferia.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\PruebaTecnicaPeriferia.Entities.AssemblyInfoInputs.cache
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\PruebaTecnicaPeriferia.Entities.AssemblyInfo.cs
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\PruebaTecnicaPeriferia.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\PruebaTecnicaPeriferia.Entities.dll
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\refint\PruebaTecnicaPeriferia.Entities.dll
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\PruebaTecnicaPeriferia.Entities.pdb
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Entities\obj\Debug\net8.0\ref\PruebaTecnicaPeriferia.Entities.dll

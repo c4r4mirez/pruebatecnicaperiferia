@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:PruebaTecnicaPeriferia.MAUI.ViewModels"
+             x:DataType="vm:LoginViewModel"
+             x:Class="PruebaTecnicaPeriferia.MAUI.Views.LoginView">
+
+    <Grid RowDefinitions="*, Auto">
+
+        <Image Source="dotnet_bot.png" />
+
+        <Grid Grid.Row="1" 
+          RowDefinitions="Auto, Auto, Auto, Auto, Auto"
+          VerticalOptions="Center" 
+          HorizontalOptions="FillAndExpand"
+          RowSpacing="10"
+          Margin="15">
+
+            <Label Text="Login" 
+                   HorizontalOptions="CenterAndExpand" 
+                   FontSize="24"/>
+
+            <Entry Grid.Row="1" 
+                   Text="{Binding User}"
+                   Placeholder="Username"/>
+
+            <Entry Grid.Row="2"
+                   Text="{Binding Password}"
+                   Placeholder="Password" 
+                   IsPassword="True"/>
+
+            <Button Grid.Row="3"
+                    Text="Login"
+                    Style="{StaticResource Button1}"
+                    Command="{Binding LoginCommand}" />
+
+            <Button Grid.Row="4"
+                    Text="Register"
+                    Style="{StaticResource Button2}"
+                    Command="{Binding AddUserCommand}" />
+        </Grid>
+        
+    </Grid>
+</ContentPage>

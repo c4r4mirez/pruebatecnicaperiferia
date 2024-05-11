@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xaml-comp compile="true" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    xmlns:model="clr-namespace:PruebaTecnicaPeriferia.Entities.POCOEntities;assembly=PruebaTecnicaPeriferia.Entities"
+                    xmlns:vm="clr-namespace:PruebaTecnicaPeriferia.MAUI.ViewModels"
+                    xmlns:converters="clr-namespace:PruebaTecnicaPeriferia.MAUI.Converters">
+
+    <!--MyStyles-->
+    <Style x:Key="Button1" TargetType="Button">
+        <Setter Property="Background" Value="Black" />
+        <Setter Property="TextColor" Value="White" />
+    </Style>
+
+    <Style x:Key="Button2" TargetType="Button">
+        <Setter Property="Background" Value="Gray" />
+        <Setter Property="TextColor" Value="White" />
+    </Style>
+
+    <DataTemplate x:Key="ListMoviesTemplate"
+                  x:DataType="model:Movie">
+        <Frame HasShadow="True" 
+               Margin="10"
+               HeightRequest="300"
+               BackgroundColor="Black"
+               BorderColor="LightGray">
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type vm:MoviesViewModel}}, Path=GoToMovieDetailCommand}"
+                                      CommandParameter="{Binding .}"/>
+            </Frame.GestureRecognizers>
+            <Grid RowDefinitions="Auto,Auto"
+                  ColumnDefinitions="Auto,*"
+                  ColumnSpacing="10">
+
+                <Image Grid.Column="0"
+                       Grid.RowSpan="2"
+                       WidthRequest="150"
+                       HeightRequest="200"
+                       Aspect="AspectFill"
+                       Source="{Binding backdrop_path, Converter={converters:ImageUrlConverter}}">
+                </Image>
+
+                <Label Grid.Column="1"
+                       Grid.Row="0"
+                       Text="{Binding title}"
+                       TextColor="White"
+                       FontSize="Title"
+                       FontAttributes="Bold"
+                       LineBreakMode="WordWrap"
+                       VerticalOptions="Center" />
+
+                <Label Grid.Column="1"
+                       Grid.Row="1"
+                       Text="{Binding overview}"
+                       TextColor="White"
+                       FontSize="Caption"
+                       LineBreakMode="WordWrap"
+                       VerticalOptions="Center" />
+
+            </Grid>
+        </Frame>
+    </DataTemplate>
+
+</ResourceDictionary>

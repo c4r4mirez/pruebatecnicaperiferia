@@ -1,0 +1,15 @@
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\bin\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.deps.json
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\bin\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.dll
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\bin\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.pdb
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\bin\Debug\net8.0\PruebaTecnicaPeriferia.Entities.dll
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\bin\Debug\net8.0\PruebaTecnicaPeriferia.Entities.pdb
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.csproj.AssemblyReference.cache
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.AssemblyInfoInputs.cache
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.AssemblyInfo.cs
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.csproj.CoreCompileInputs.cache
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTe.67E7C3A2.Up2Date
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.dll
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\refint\PruebaTecnicaPeriferia.Http.Service.dll
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\PruebaTecnicaPeriferia.Http.Service.pdb
+C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.Http.Service\obj\Debug\net8.0\ref\PruebaTecnicaPeriferia.Http.Service.dll

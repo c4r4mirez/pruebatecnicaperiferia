@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="PruebaTecnicaPeriferia.MAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:PruebaTecnicaPeriferia.MAUI"
+    xmlns:views="clr-namespace:PruebaTecnicaPeriferia.MAUI.Views"    
+    Shell.FlyoutBehavior="Flyout"
+    Shell.BackgroundColor="Black"    
+    Shell.TabBarIsVisible="False"    
+    Title="PruebaTecnicaPeriferia.MAUI">
+
+    <ShellContent                        
+        Title=""
+        FlyoutItemIsVisible="False"        
+        Shell.FlyoutBehavior="Disabled"        
+        ContentTemplate="{DataTemplate views:LoginView}"        
+        Route="LoginView" />
+
+    <Shell.FlyoutFooter>
+        <StackLayout Padding="20">
+            <Button Text="Logout"            
+                    Style="{StaticResource Button1}"
+                    Command="{Binding LogoutCommand}"/>
+        </StackLayout>
+    </Shell.FlyoutFooter>
+
+</Shell>

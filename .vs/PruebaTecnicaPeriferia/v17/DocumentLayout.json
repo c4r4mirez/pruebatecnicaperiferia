@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\controls\\flyoutheadercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\controls\\flyoutheadercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\resources\\styles\\appstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\resources\\styles\\appstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\views\\moviedetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\views\\moviedetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\viewmodels\\moviedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\viewmodels\\moviedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\views\\moviesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\views\\moviesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\controls\\flyoutheadercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\controls\\flyoutheadercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|c:\\users\\jcram\\source\\repos\\pruebatecnicaperiferia\\pruebatecnicaperiferia.maui\\viewmodels\\moviesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554502E3-6D4E-4B95-B903-7A9FE2543780}|PruebaTecnicaPeriferia.MAUI\\PruebaTecnicaPeriferia.MAUI.csproj|solutionrelative:pruebatecnicaperiferia.maui\\viewmodels\\moviesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c478b6ac-54a8-3bd5-bc46-494f58b422c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{174bbdbc-a66d-385e-ab90-f40c77c8bc99}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\MovieDetailViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\MovieDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\MovieDetailViewModel.cs",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\MovieDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:47:52.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Resources\\Styles\\AppStyles.xaml",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\Resources\\Styles\\AppStyles.xaml",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Resources\\Styles\\AppStyles.xaml",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\Resources\\Styles\\AppStyles.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T00:41:46.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlyoutHeaderControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml.cs",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml.cs",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:01:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlyoutHeaderControl.xaml",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\Controls\\FlyoutHeaderControl.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T23:01:10.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDetailView.xaml",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Views\\MovieDetailView.xaml",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\Views\\MovieDetailView.xaml",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Views\\MovieDetailView.xaml",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\Views\\MovieDetailView.xaml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAkwGIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T22:53:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\AppShell.xaml.cs",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:50:22.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShellViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\AppShellViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\AppShellViewModel.cs",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\AppShellViewModel.cs",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\AppShellViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:46:11.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\AppShell.xaml",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T21:54:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoviesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\MoviesViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\MoviesViewModel.cs",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\MoviesViewModel.cs",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\MoviesViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA4wEcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:34:29.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesView.xaml",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Views\\MoviesView.xaml",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\Views\\MoviesView.xaml",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Views\\MoviesView.xaml",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\Views\\MoviesView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T21:14:34.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\Views\\LoginView.xaml",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\Views\\LoginView.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T21:03:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\jcram\\source\\repos\\PruebaTecnicaPeriferia\\PruebaTecnicaPeriferia.MAUI\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "PruebaTecnicaPeriferia.MAUI\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAIwGsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:51:03.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PruebaTecnicaPeriferia.MAUI
+build_property.ProjectDir = C:\Users\jcram\source\repos\PruebaTecnicaPeriferia\PruebaTecnicaPeriferia.MAUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/Controls/FlyoutHeaderControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.Controls.FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\FlyoutHeaderControl.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/Views/LoginView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.Views.LoginView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginView.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/Views/MovieDetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.Views.MovieDetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MovieDetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MovieDetailView.xaml
+
+[C:/Users/jcram/source/repos/PruebaTecnicaPeriferia/PruebaTecnicaPeriferia.MAUI/Views/MoviesView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PruebaTecnicaPeriferia.MAUI.Views.MoviesView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MoviesView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MoviesView.xaml
